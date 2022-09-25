@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://bobthefarmer.github.io/fastpagesForFlask/2022/09/24/Roles.html</loc>
+<loc>https://bobthefarmer.github.io/fastpagesForFlask/2022/09/24/Group-Roles.html</loc>
 <lastmod>2022-09-24T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://bobthefarmer.github.io/fastpagesForFlask/2022/09/25/Scrum-Board.html</loc>
+<lastmod>2022-09-25T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>https://bobthefarmer.github.io/fastpagesForFlask/about/</loc>
