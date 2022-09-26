@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Scrum Board",
-            "content": "{ “cells”: [ { “cell_type”: “markdown”, “metadata”: {}, “source”: [ “# Week 5 Assignment Scrum Board n”, “&gt;Week 5 Assignment Scrum Board and Agile Methodology n”, “ n”, “- toc: true n”, “- badges: true n”, “- comments: true n”, “- categories: [Python,Markdown,week-5,APCSP]” ] }, { “cell_type”: “markdown”, “metadata”: {}, “source”: [ “|To Do|Work In Progress|Completed|Deployed|Reviewed| n”, “|-|-|-|-|-| n”, “|-|Adding page to flask portfolio|-|-|Agile Methodology Poster|” ] }, { “cell_type”: “code”, “execution_count”: 1, “metadata”: {}, “outputs”: [ { “name”: “stdout”, “output_type”: “stream”, “text”: [ “/home/theca/vscode/fastpagesForFlask/_notebooks n” ] }, { “data”: { “text/html”: [ “&lt;img src=&quot;images/af.jpg&quot; width=&quot;864&quot; height=&quot;1152&quot;/&gt;” ], “text/plain”: [ “&quot; ] }, &quot;execution_count&quot;: 1, &quot;metadata&quot;: {}, &quot;output_type&quot;: &quot;execute_result&quot; } ], &quot;source&quot;: [ &quot;!pwd n&quot;, &quot;from IPython.display import Image n&quot;, &quot;Image(url= &quot;images/af.jpg &quot;, width=864, height=1152)&quot; ] } ], &quot;metadata&quot;: { &quot;kernelspec&quot;: { &quot;display_name&quot;: &quot;Python 3.9.12 (&#39;base&#39;)&quot;, &quot;language&quot;: &quot;python&quot;, &quot;name&quot;: &quot;python3&quot; }, &quot;language_info&quot;: { &quot;codemirror_mode&quot;: { &quot;name&quot;: &quot;ipython&quot;, &quot;version&quot;: 3 }, &quot;file_extension&quot;: &quot;.py&quot;, &quot;mimetype&quot;: &quot;text/x-python&quot;, &quot;name&quot;: &quot;python&quot;, &quot;nbconvert_exporter&quot;: &quot;python&quot;, &quot;pygments_lexer&quot;: &quot;ipython3&quot;, &quot;version&quot;: &quot;3.9.12&quot; }, &quot;orig_nbformat&quot;: 4, &quot;vscode&quot;: { &quot;interpreter&quot;: { &quot;hash&quot;: &quot;30035633ff51bcc11553e39ef3b40810ee19007d8828d0abca75ce9054266ff5&quot; } } }, &quot;nbformat&quot;: 4, &quot;nbformat_minor&quot;: 2 } .",
-            "url": "https://bobthefarmer.github.io/fastpagesForFlask/2022/09/25/Scrum-Board.html",
-            "relUrl": "/2022/09/25/Scrum-Board.html",
+            "title": "Week 5 Assignment Scrum Board",
+            "content": "To Do Work In Progress Completed Deployed Reviewed . - | Adding page to flask portfolio | - | - | Agile Methodology Poster | . . print(&quot;Keep it in notebooks&quot;) . Keep it in notebooks .",
+            "url": "https://bobthefarmer.github.io/fastpagesForFlask/python/markdown/week-5/apcsp/2022/09/25/Scrum-Board.html",
+            "relUrl": "/python/markdown/week-5/apcsp/2022/09/25/Scrum-Board.html",
             "date": " • Sep 25, 2022"
         }
         
