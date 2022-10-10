@@ -13,6 +13,17 @@
   
     
         ,"post1": {
+            "title": "Week 8 Assignment",
+            "content": "To Do Work In Progress Completed Deployed Reviewed . Complete CSS and HTML File (Frontend) | Game code (Backend) | - | - | - | . Program Purpose Data Abstraction Complexity Procedural Abstraction Algorithm Implementation Testing . A maze game that is functional and uses path solving to guide the snake through the maze without hitting an edge or a side. | Use different signals to recognize air between wall between snake. | The game will get progressively harder as you pass levels. | Levels get harder and use different symbols to represent the snake and walls. | Use sequencing to &quot;push&quot; the snake. | Play the game! The game can also be used to teach others. | . print(&quot;Keep it in notebooks&quot;) . Keep it in notebooks .",
+            "url": "https://bobthefarmer.github.io/fastpagesForFlask/python/markdown/week-8/apcsp/2022/09/25/Scrum-Board-W8.html",
+            "relUrl": "/python/markdown/week-8/apcsp/2022/09/25/Scrum-Board-W8.html",
+            "date": " • Sep 25, 2022"
+        }
+        
+    
+  
+    
+        ,"post2": {
             "title": "Overview",
             "content": "// Demo goes here Jaden and Ethan .",
             "url": "https://bobthefarmer.github.io/fastpagesForFlask/2022/09/25/Overview.html",
@@ -23,7 +34,7 @@
     
   
     
-        ,"post2": {
+        ,"post3": {
             "title": "Group Roles",
             "content": "Name Role . Orlando | Scrum Master | . Jaden | Dev Ops | . Colin | Frontend Dev | . Ethan | Backend Dev | .",
             "url": "https://bobthefarmer.github.io/fastpagesForFlask/2022/09/24/Group-Roles.html",
